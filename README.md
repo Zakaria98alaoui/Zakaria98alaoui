@@ -9,7 +9,7 @@
   
 <img src="https://avatars.githubusercontent.com/u/77508102?s=96&v=4" align="right"/> 
 
-I'm a Junior front-end develope, I enjoy working with include html, css, sass, bootstrap, Javascript, ReactJS.
+I'm a Junior front-end developer, I enjoy working with include html, css, sass, bootstrap, Javascript, ReactJS.
 
 - 🔭 I'm a front-end developer, I work as a freelancer, I live in moroco.
 - 🔍 I have a portfolio website including lists of my projects that i make 
