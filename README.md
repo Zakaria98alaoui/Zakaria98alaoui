@@ -7,7 +7,7 @@
     <a href=""><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-<!--     <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/> -->
+<img src="https://github.com/settings/profile" align="right" width="25%"/> 
 
 I'm a Junior front-end develope, I enjoy working with include html, css, sass, bootstrap, Javascript, ReactJS.
 
